@@ -1,0 +1,36 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Freight Text W03 Book
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   Adelle SansW01-Regular
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   Adelle W01 Regular
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   Freight Sans W01 Semibold It
+Font provider   :   fonts.com
+
+
+
+******************************************************************************Font name       :   freight-sans-pro
+Font provider   :   typekit
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2017/01/31.
+w
